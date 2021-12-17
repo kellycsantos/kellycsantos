@@ -1,13 +1,30 @@
 <h1>Olá, eu sou a Kelly</h1>
 <div>
-  <a href="https://github.com/kellycsantos">
+  <a href="https://github.com/kellycsantos"></a>
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=kellycsantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellycsantos&layout=compact&langs_count=16&theme=dracula">
  </div>   
   
   <div>
-    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-    <img src="https://img.icons8.com/color/96/000000/html-5--v1.png"/>
-    <img src="https://img.icons8.com/color/70/000000/html-5--v1.png"/>
-    </div
+    <img src="https://www.svgrepo.com/show/349402/html5.svg" width="59px" />
+    <img src="https://www.svgrepo.com/show/349330/css3.svg" width="60px"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" width="60px">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/github/github-original.svg" width="65px">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/angularjs/angularjs-plain.svg" width="60px" >
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/sass/sass-original.svg" width="60px" >
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg" width="60px" >
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/typescript/typescript-plain.svg" width="60px" >
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/vuejs/vuejs-original.svg" width="60px" >
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg" width="60px" >  
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/visualstudio/visualstudio-plain.svg" width="60px" > 
    
+    <!--
+    <img src="" width="60px" >  
+    <img src="" width="60px" > 
+    <img src="" width="60px" > 
+    <img src="" width="60px" >  
+    <img src="" width="60px" > 
+    -->
+  </div>
+   
+
