@@ -12,8 +12,12 @@
     <img src="https://www.svgrepo.com/show/349402/html5.svg" width="40px" />
     <img src="https://www.svgrepo.com/show/349330/css3.svg" width="40px"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" width="40px">
+  <img src="https://pt.m.wikipedia.org/wiki/Ficheiro:Vue.js_Logo_2.svg" width="40px">
+
+
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-original.svg" width="40px" >  
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/github/github-original.svg" width="40px">
+  
  
    
   </div>
