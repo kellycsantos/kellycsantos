@@ -5,7 +5,9 @@
   <img height="155.1em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellycsantos&layout=compact&langs_count=16&theme=dracula">
  </div>   
   
-  <hr></hr>
+  <hr>
+
+  
   
   
   <div>
