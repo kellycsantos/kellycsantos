@@ -21,6 +21,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="40px">
     <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" width="40px">
    <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" width="40px">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg" width="40px">
 <!--    <img src="" width="40px"> -->
   
  
