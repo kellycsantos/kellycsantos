@@ -1,8 +1,7 @@
 <h1>Olá, seja bem vindo(a) ao meu repositorio! <span><img width="50px" src="https://user-images.githubusercontent.com/95941924/147305886-8271bbe2-690c-408a-882e-8d8e798aca55.png"></span></h1>
 <div>
   <a href="https://github.com/kellycsantos"></a>
-  <img height="155em"  src="https://github-readme-stats.vercel.app/api?username=kellycsantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-  <img height="155.1em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=kellycsantos&layout=compact&langs_count=16&theme=dracula">
+
  </div>   
   
   <hr>
